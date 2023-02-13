@@ -1,6 +1,17 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+  background-color: lightgrey;
+  color: brown;
+}
+
 img {
   border-radius: 50%;
   border: solid;
   box-shadow: 10px 5px 5px yellowgreen;
   width: 20%;
+}
+
+h1 {
+  color: rgb(235, 140, 16);
 }
